@@ -10,11 +10,11 @@ The model classifies 0 if the person does not have diabetes and 1 if the person 
 Input/Output
 <img width="868" alt="2022-12-17 (2)" src="https://user-images.githubusercontent.com/89626797/208166569-c1a262a7-bd40-4d7e-a430-308328fab82a.png">
 
-live link: 
+live link: https://github.com/SainaAgrawal/diabetes-detection
 
 
 
-screenchot of the interface:
+screenshot of the interface:
 <img width="954" alt="2022-12-17 (7)" src="https://user-images.githubusercontent.com/89626797/208169084-0f76ce59-4aec-4edf-89ea-8e98dfa7d8d6.png">
 <img width="956" alt="2022-12-17 (8)" src="https://user-images.githubusercontent.com/89626797/208169239-1049c553-495a-48fa-b371-5f7763470a52.png">
 <img width="960" alt="2022-12-17 (9)" src="https://user-images.githubusercontent.com/89626797/208169361-c27d5ca5-a054-4959-afcb-83483a9d7669.png">
