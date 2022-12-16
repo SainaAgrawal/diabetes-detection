@@ -8,6 +8,7 @@ Best Accuracy: 80.2%
 The model classifies 0 if the person does not have diabetes and 1 if the person has diabetes
 
 Input/Output
-![image](https://user-images.githubusercontent.com/89626797/208165709-0f271b4a-181d-43e7-8432-8b3ab782773e.png)
+<img width="868" alt="2022-12-17 (2)" src="https://user-images.githubusercontent.com/89626797/208166569-c1a262a7-bd40-4d7e-a430-308328fab82a.png">
+
 
 
