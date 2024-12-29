@@ -6,7 +6,7 @@ from sklearn.ensemble import RandomForestClassifier
 from PIL import Image
 import streamlit as st
 
-#create a data
+#create a data...
 st.write("""Detect if someone has diabetes using machine learning""")
 
 #open and diaplay the image
